@@ -1,0 +1,6 @@
+{
+  "name": "Arcana Daily - Tarot & Journal",
+  "description": "Daily sacred Tarot ritual with single card or 3-card spread options, prompt selector, comprehensive Tarot Academy & Grimoire, and a private daily reflection journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
